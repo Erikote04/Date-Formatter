@@ -20,5 +20,7 @@ dateOptionsSelectElement.addEventListener("change", () => {
                 .join("-");
             break;
         case "mm-dd-yyyy-h-mm":
+            currentDateParagraph.textContent = ``;
+            break;
     }
 });
