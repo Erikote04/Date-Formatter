@@ -27,7 +27,7 @@ To change the date format, select an option from the dropdown menu, and the disp
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/date-formatter.git`
+1. Clone the repository: `git clone https://github.com/Erikote04/Date-Formatter.git`
 2. Open index.html in your preferred web browser.
 3. Begin to learn about the Date object!
    
